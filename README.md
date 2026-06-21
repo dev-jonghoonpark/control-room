@@ -82,6 +82,10 @@ xattr -dr com.apple.quarantine /Applications/ControlRoom.app
 - Because the panel is nonactivating, the edge-resize **cursor** may not appear — visible grips are provided as the affordance instead.
 - Global hotkey, better multi-monitor layout, and drag-window-to-another-Space are future work.
 
+## License
+
+[MIT](LICENSE) © jonghoonpark
+
 ## Support
 
 If you find Control Room useful, you can support its development:

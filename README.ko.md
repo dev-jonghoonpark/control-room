@@ -76,6 +76,10 @@ xattr -dr com.apple.quarantine /Applications/ControlRoom.app
 - 비활성 패널 특성상 가장자리 리사이즈 **커서**는 표시되지 않을 수 있어, 그립을 시각적 표시로 제공합니다.
 - 전역 단축키, 멀티 모니터 배치 개선, 드래그로 창을 다른 Space로 이동 등은 향후 과제.
 
+## 라이선스
+
+[MIT](LICENSE) © jonghoonpark
+
 ## 후원
 
 Control Room이 유용했다면 개발을 후원해 주세요:
