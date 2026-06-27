@@ -90,4 +90,4 @@ xattr -dr com.apple.quarantine /Applications/ControlRoom.app
 
 If you find Control Room useful, you can support its development:
 
-<a href="https://buymeacoffee.com/jonghoonpark"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+<a href="https://github.com/sponsors/dev-jonghoonpark"><img src="https://raw.githubusercontent.com/dev-jonghoonpark/github-style-button-image-generator/refs/heads/main/example/sponsor-button.png" alt="Sponsor" height="32"></a>
